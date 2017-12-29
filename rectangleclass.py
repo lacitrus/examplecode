@@ -1,3 +1,7 @@
+#A rectangle has a length and a width. A rectangle should be able to provide its area and perimeter. A rectangle can indicate
+#whether it is smaller than another rectangle in terms of area. A rectangle can indicate whether it is in fact a square.
+
+
 class Rectangle:
     def __init__(self, length, width):
         self.length = length
